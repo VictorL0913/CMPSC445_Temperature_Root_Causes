@@ -1,2 +1,22 @@
-# CMPSC445_Temperature_Root_Causes
-Project 1
+# CMPSC445 Project 1 Global Temperature Root Cause
+
+### Project Overview
+
+#### Assignment Tasks
+
+#### Temperature Root Cause
+
+### Description of Methods
+
+### Performance Evaluation
+
+#### Graphs
+
+![alt text]() 
+![alt text]()
+![alt text]() 
+![alt text]()
+
+
+### Conclusion
+
